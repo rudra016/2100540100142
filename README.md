@@ -8,7 +8,7 @@
 
 ![Image 3](photos/3.png)
 
-# Question 2 photos
+# Question 2 photos (USED TYPESCRIPT AND TAILWIND)
 
 ![Image 4](photos/4.png)
 
